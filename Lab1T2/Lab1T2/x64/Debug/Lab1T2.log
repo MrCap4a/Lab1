@@ -1,0 +1,4 @@
+﻿  Lab1T2.cpp
+C:\Users\2212d\source\repos\Lab1\Lab1T2\Lab1T2\Lab1T2.cpp(38,19): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\2212d\source\repos\Lab1\Lab1T2\Lab1T2\Lab1T2.cpp(54,17): warning C4305: аргумент: усечение из "double" в "float"
+  Lab1T2.vcxproj -> C:\Users\2212d\source\repos\Lab1\Lab1T2\x64\Debug\Lab1T2.exe
